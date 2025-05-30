@@ -1,14 +1,6 @@
-## Hi there. I am Sarah, aka Solaara.
+## Hi there. I am Solaara.
 
-- 💼 I'm a **systems administrator** (mainly Debian and RHEL-based, Cisco networking and ESXi/AWS) and **full-stack web-dev** (mainly React/NextJS with a Java or Rust backend) by trade.
-
-- 🏠 In my free time I tinker on time-waster **programming** projects, make **shitty music** or play **Final Fantasy XIV**.
-
-- 🌐 I have a **website** available at [**https://www.solaara.net/**](https://www.solaara.net/) which I redo for fun every once in a while (planning to make it my **portfolio** in the future, when I have time...)
-
-- 🖇️ I am currently working towards building skills regarding **Kubernetes and overall container orchestration**, especially on bare-metal through [**Talos**](https://talos.dev/).
-
-- 🌃 My dream project is making an **MMORPG** and learning both **game making** and **online game development** through it.
+I'm migrating my repos over to [https://sr.ht/~iamsolaara/](https://sr.ht/~iamsolaara/). See you there 👋
 
 <!--
 **IAMSolaara/IAMSolaara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
